@@ -192,7 +192,7 @@
                 <idleTime>true</idleTime>
               </value>
             </objProp>
-            <stringProp name="filename">response_time_per_page.jtl</stringProp>
+            <stringProp name="filename"></stringProp>
             <stringProp name="RespTimeGraph.graphtitle">response</stringProp>
           </ResultCollector>
           <hashTree/>
@@ -227,7 +227,7 @@
                 <idleTime>true</idleTime>
               </value>
             </objProp>
-            <stringProp name="filename">summary_report.jtl</stringProp>
+            <stringProp name="filename"></stringProp>
           </ResultCollector>
           <hashTree/>
         </hashTree>
